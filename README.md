@@ -39,4 +39,4 @@ This repository is outdated and had some bugs in the release, we have a monitere
 ## Credits
 PrimeTDMomega - Cracked the Client
 <br>
-[Withered Knights](https://github.com/PrimeTDMomega/valor-client) - Emotional Support (lol)
+[Withered Knights](https://discord.gg/gQPA3dKPUK) - Emotional Support (lol)
