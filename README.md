@@ -34,6 +34,6 @@ Lunar Client needs a premium Minecraft account to be used and does not work with
  4. ENJOY
 
 ## Credits
-PrimeTDMomega - Cracked the Client
+[PrimeTDMomega](https://github.com/PrimeTDMomega/) - Cracked the Client
 <br>
-[Withered Knights](https://discord.gg/gQPA3dKPUK) - Emotional Support (lol)
+[Withered Knights](https://dsc.gg/witheredknights) - Emotional Support (lol)
