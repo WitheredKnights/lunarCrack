@@ -27,7 +27,7 @@ Lunar Client needs a premium Minecraft account to be used and does not work with
  3. ENJOY 
 
 ### How to use Multiplayer (IMPORTANT)
-
+Well there are 2 ways to use Multiplayer, if just clicking the Multiplayer button in the main menue dosn't work then do the following !
  1. Make a Singleplayer world
  2. Click on escape button or `esc`
  3. Click on an option called `Multiplayer`
