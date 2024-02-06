@@ -6,11 +6,13 @@ Lunar Client needs a premium Minecraft account to be used and does not work with
 ## Installation 
 
 ### Step 1 : Download
- Download the `LC.zip` File from [Releases](https://github.com/PrimeTDMomega/lunarCrack/releases/tag/2.0.0/)
+ Download the `LC.zip` File from [Releases](https://github.com/WitheredKnights/lunarCrack/releases/tag/v3.0.0)
  ### Step 2 : Extraction
  Extract the `LC.zip` file using software such as WinRAR or 7zip
  ### Step 3 : Usage
- Run the file named `Launch Lunar.cmd`
+ Run the `.exe` file named `lunar-client-qt.exe`.
+ ### Step 3 : Launch
+ Choose which way you wanna launch and wait for a little bit coz it takes a bit to launch.
 
 
 ## Credits
