@@ -3,10 +3,13 @@ Lunar Client is a PvP Client for 1.8.9 Minecraft which is very popular and makes
 
 Lunar Client needs a premium Minecraft account to be used and does not work without it but this crack made by PrimeTDMomega (thats me) that does not require a premium Minecraft account and can be used in launchers such as TLauncher or even the Official Minecraft Launcher.
 
+**IMPORTANT**
+If you wanna run lunarclient and never have run the real lunarclient before and don't have premium account then follow steps given below, if u have launched lunarclient before and just wanna use a cracked on lunarclient then read the `CRACKED.md`
+
 ## Installation 
 
 ### Step 1 : Download
- Download the `LC.zip` File from [Releases](https://github.com/PrimeTDMomega/lunarCrack/releases/tag/1.0)
+ Download the `LC.zip` File from [Releases](https://github.com/WitheredKnights/lunarCrack/releases/tag/v4.0.0)
  ### Step 2 : Extraction
  Extract the `LC.zip` file using software such as WinRAR or 7zip
  ### Step 3 : Placement
